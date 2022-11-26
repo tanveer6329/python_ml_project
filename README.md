@@ -10,3 +10,5 @@
       - Geologic feature image creation
       - Prediction using those feature images
   6. Data visualization
+  7. Hyper-parameter turning using Gridsearch-CV
+  8. Cross-validation
